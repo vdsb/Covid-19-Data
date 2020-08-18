@@ -1,0 +1,9 @@
+{
+  "name": "covid",
+  "version": "0.0.0",
+  "description": "Covid",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
